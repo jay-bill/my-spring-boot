@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: my-springboot-security
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.jaybill.spring
+Build-Jdk: 1.7.0_72
+Built-By: jaybill
+Created-By: Maven Integration for Eclipse
+
